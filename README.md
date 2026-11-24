@@ -37,6 +37,7 @@ Nothing here is financial advice. Always download wallets from the official site
 ## Mobile wallets
 
 - [Trust Wallet](https://trustwallet.com/) - Multi-chain mobile wallet. [Explained](https://tokenalphabet.com/blog/trust-wallet-explained-why-it-s-still-one-of-the-most-popular-mobile-wallets)
+- [Ownbit](https://ownbit.io/en/) - Self-custody mobile wallet with cross-chain multisig, QR-based offline signing, and paid membership plans.
 
 ## Browser and Web3 wallets
 
